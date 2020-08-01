@@ -1,0 +1,11 @@
+- Node js
+- Ejs - View engine
+- Bootstrap
+- Mysql
+
+
+bibliotecas
+
+- sequelize
+- Mysql2
+- bodyparser
