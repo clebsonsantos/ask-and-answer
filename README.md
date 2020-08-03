@@ -7,14 +7,6 @@
 ![Badge](https://img.shields.io/static/v1?label=EJS&message=viewEngine&color=green)
 
 
-
-
-
-
-
-
-
-
 ## Descrição do Projeto:
 <p align="justify"> O Ask and Answer é um projeto que possibilita a interação entre pessoas para resolverem dúvidas. É um projeto simples de fórum. </p>
 
@@ -22,17 +14,17 @@
 
 
 - [x] Home
+
 ![image](https://user-images.githubusercontent.com/60331806/89111247-eb05e080-d429-11ea-9088-5127da68edfc.png)
 
 - [x] Perguntar
+
 ![image](https://user-images.githubusercontent.com/60331806/89111256-f9ec9300-d429-11ea-98d8-e861b4cb8c50.png)
 
 
 - [x] Pergunta/Resposta
+
 ![image](https://user-images.githubusercontent.com/60331806/89111266-0e309000-d42a-11ea-9093-cbca6640d757.png)
-
-
-
 
 
 
@@ -54,7 +46,7 @@
 ```
 https://github.com/clebsonsantos/ask-and-answer.git
 ```
-- Entre na pasta do projeto projeto:
+- Entre na pasta do projeto:
 ```
 cd ask-and-answer
 ```
